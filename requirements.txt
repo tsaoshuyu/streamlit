@@ -1,2 +1,12 @@
 keras==2.10.0
 Keras-Preprocessing==1.1.2
+tensorboard==2.10.0
+tensorboard-data-server==0.6.1
+tensorboard-plugin-wit==1.8.1
+tensorboardX==2.5.1
+tensorflow==2.10.0
+tensorflow-estimator==2.10.0
+tensorflow-io-gcs-filesystem==0.27.0
+termcolor==2.0.1
+terminado==0.15.0
+tf-keras-vis==0.8.4
