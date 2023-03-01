@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-!pip install keras
+
 import time
 import streamlit as st
 import numpy as np
